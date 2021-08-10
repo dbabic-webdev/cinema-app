@@ -5,4 +5,4 @@ Authorization added: admin login (miroslav, miroslav), user login (tamara, tamar
 
 Before launching frontend write in terminal - npm install
 
-Admin can delete and add new movies. Regular user can only can do search.
+Admin can delete and add new movies. Regular user can only do a search.
